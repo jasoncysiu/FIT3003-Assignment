@@ -1,0 +1,14 @@
+CARBODYTYPE,AGE_GROUP,FACULTY_ID,TOTAL_BOOKING
+People Mover,Group 1,ART,169
+People Mover,Group 1,BUS,121
+People Mover,Group 1,ENG,382
+People Mover,Group 1,FIT,390
+People Mover,Group 1,SCI,318
+People Mover,Group 2,ART,284
+People Mover,Group 2,BUS,193
+People Mover,Group 2,ENG,429
+People Mover,Group 2,FIT,497
+People Mover,Group 2,SCI,319
+People Mover,Group 3,ENG,30
+People Mover,Group 3,FIT,122
+People Mover,Group 3,SCI,142
