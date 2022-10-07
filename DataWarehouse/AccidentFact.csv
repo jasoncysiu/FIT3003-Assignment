@@ -1,0 +1,994 @@
+"ACCIDENTZONE","ERRORCODE","CAR_DAMAGE_SEVERITY","ACCIDENTID","NUM_OF_ACCIDENT"
+"ZoneB","Error002","No damage","A648",1
+"ZoneB","Error001","Severe damage","A652",1
+"ZoneC","Error005","Severe damage","A660",1
+"ZoneA","Error004","Severe damage","A665",1
+"ZoneC","Error002","No damage","A668",1
+"ZoneA","Error005","Moderate damage","A675",1
+"ZoneC","Error004","Moderate damage","A677",1
+"ZoneC","Error001","Very minor damage","A685",1
+"ZoneD","Error002","No damage","A701",1
+"ZoneB","Error002","No damage","A706",1
+"ZoneD","Error004","Minor damage","A709",1
+"ZoneA","Error005","Severe damage","A747",1
+"ZoneA","Error005","Moderate damage","A752",1
+"ZoneB","Error002","No damage","A761",1
+"ZoneD","Error002","No damage","A317",1
+"ZoneC","Error002","No damage","A323",1
+"ZoneA","Error002","No damage","A342",1
+"ZoneA","Error002","No damage","A361",1
+"ZoneC","Error002","No damage","A373",1
+"ZoneD","Error001","Minor damage","A376",1
+"ZoneB","Error004","Severe damage","A378",1
+"ZoneC","Error005","Very minor damage","A387",1
+"ZoneB","Error004","Severe damage","A398",1
+"ZoneC","Error002","No damage","A410",1
+"ZoneB","Error003","Severe damage","A418",1
+"ZoneB","Error003","Very minor damage","A421",1
+"ZoneA","Error002","No damage","A440",1
+"ZoneA","Error003","Moderate damage","A441",1
+"ZoneA","Error001","Severe damage","A461",1
+"ZoneD","Error002","No damage","A467",1
+"ZoneC","Error004","Very minor damage","A468",1
+"ZoneB","Error004","Minor damage","A473",1
+"ZoneD","Error002","No damage","A475",1
+"ZoneC","Error002","No damage","A477",1
+"ZoneB","Error004","Very minor damage","A495",1
+"ZoneC","Error003","Severe damage","A505",1
+"ZoneA","Error002","No damage","A512",1
+"ZoneC","Error004","Very minor damage","A530",1
+"ZoneD","Error002","No damage","A531",1
+"ZoneA","Error002","No damage","A534",1
+"ZoneD","Error004","Minor damage","A540",1
+"ZoneD","Error002","No damage","A546",1
+"ZoneD","Error001","Minor damage","A556",1
+"ZoneA","Error003","Very minor damage","A558",1
+"ZoneA","Error001","Severe damage","A559",1
+"ZoneC","Error005","Moderate damage","A564",1
+"ZoneC","Error004","Very minor damage","A565",1
+"ZoneA","Error002","No damage","A566",1
+"ZoneC","Error005","Minor damage","A579",1
+"ZoneC","Error005","Severe damage","A580",1
+"ZoneA","Error001","Minor damage","A586",1
+"ZoneC","Error002","No damage","A587",1
+"ZoneB","Error005","Minor damage","A599",1
+"ZoneA","Error003","Minor damage","A606",1
+"ZoneA","Error001","Minor damage","A616",1
+"ZoneD","Error005","Moderate damage","A621",1
+"ZoneD","Error001","Severe damage","A629",1
+"ZoneA","Error004","Very minor damage","A954",1
+"ZoneA","Error004","Very minor damage","A968",1
+"ZoneD","Error005","Moderate damage","A969",1
+"ZoneC","Error003","Very minor damage","A982",1
+"ZoneB","Error002","No damage","A989",1
+"ZoneB","Error003","Severe damage","A1018",1
+"ZoneC","Error002","No damage","A1030",1
+"ZoneD","Error002","No damage","A1035",1
+"ZoneD","Error003","Severe damage","A1045",1
+"ZoneB","Error001","Moderate damage","A1047",1
+"ZoneA","Error002","No damage","A1051",1
+"ZoneB","Error001","Severe damage","A1065",1
+"ZoneD","Error003","Minor damage","A1068",1
+"ZoneC","Error002","No damage","A1077",1
+"ZoneA","Error005","Severe damage","A1093",1
+"ZoneB","Error002","No damage","A1095",1
+"ZoneD","Error004","Minor damage","A1110",1
+"ZoneD","Error002","No damage","A1114",1
+"ZoneB","Error002","No damage","A1125",1
+"ZoneB","Error002","No damage","A1129",1
+"ZoneA","Error005","Very minor damage","A1131",1
+"ZoneB","Error002","No damage","A1133",1
+"ZoneB","Error002","No damage","A1145",1
+"ZoneA","Error002","No damage","A1161",1
+"ZoneD","Error001","Very minor damage","A1170",1
+"ZoneA","Error002","No damage","A1181",1
+"ZoneC","Error004","Moderate damage","A1195",1
+"ZoneA","Error002","No damage","A1200",1
+"ZoneB","Error002","No damage","A1226",1
+"ZoneD","Error001","Very minor damage","A1229",1
+"ZoneA","Error002","No damage","A1237",1
+"ZoneC","Error005","Minor damage","A1239",1
+"ZoneB","Error003","Moderate damage","A1243",1
+"ZoneA","Error001","Very minor damage","A1248",1
+"ZoneC","Error005","Moderate damage","A1252",1
+"ZoneB","Error005","Very minor damage","A1257",1
+"ZoneB","Error002","No damage","A1265",1
+"ZoneA","Error001","Minor damage","A1275",1
+"ZoneC","Error001","Very minor damage","A1276",1
+"ZoneC","Error004","Moderate damage","A1280",1
+"ZoneC","Error001","Severe damage","A1287",1
+"ZoneC","Error003","Moderate damage","A1289",1
+"ZoneB","Error001","Moderate damage","A1290",1
+"ZoneC","Error002","No damage","A1296",1
+"ZoneB","Error002","No damage","A1304",1
+"ZoneB","Error002","No damage","A1307",1
+"ZoneA","Error004","Moderate damage","A790",1
+"ZoneA","Error004","Moderate damage","A793",1
+"ZoneB","Error003","Severe damage","A812",1
+"ZoneD","Error003","Severe damage","A834",1
+"ZoneD","Error001","Severe damage","A842",1
+"ZoneB","Error005","Severe damage","A844",1
+"ZoneA","Error003","Moderate damage","A849",1
+"ZoneC","Error004","Severe damage","A883",1
+"ZoneD","Error003","Minor damage","A887",1
+"ZoneC","Error005","Severe damage","A895",1
+"ZoneD","Error001","Minor damage","A896",1
+"ZoneB","Error002","No damage","A915",1
+"ZoneA","Error002","No damage","A916",1
+"ZoneD","Error001","Very minor damage","A917",1
+"ZoneD","Error005","Minor damage","A946",1
+"ZoneB","Error004","Moderate damage","A643",1
+"ZoneA","Error003","Very minor damage","A653",1
+"ZoneB","Error003","Moderate damage","A667",1
+"ZoneD","Error005","Moderate damage","A674",1
+"ZoneC","Error002","No damage","A678",1
+"ZoneC","Error001","Severe damage","A684",1
+"ZoneB","Error002","No damage","A686",1
+"ZoneB","Error005","Minor damage","A687",1
+"ZoneD","Error002","No damage","A689",1
+"ZoneC","Error002","No damage","A728",1
+"ZoneA","Error001","Severe damage","A734",1
+"ZoneA","Error005","Moderate damage","A740",1
+"ZoneC","Error002","No damage","A745",1
+"ZoneD","Error005","Severe damage","A755",1
+"ZoneC","Error002","No damage","A759",1
+"ZoneB","Error002","No damage","A767",1
+"ZoneC","Error002","No damage","A770",1
+"ZoneA","Error002","No damage","A772",1
+"ZoneB","Error004","Moderate damage","A777",1
+"ZoneC","Error004","Minor damage","A780",1
+"ZoneB","Error001","Moderate damage","A789",1
+"ZoneB","Error004","Very minor damage","A321",1
+"ZoneB","Error002","No damage","A324",1
+"ZoneD","Error004","Moderate damage","A331",1
+"ZoneC","Error005","Minor damage","A333",1
+"ZoneD","Error004","Minor damage","A334",1
+"ZoneA","Error001","Minor damage","A337",1
+"ZoneB","Error004","Minor damage","A338",1
+"ZoneD","Error002","No damage","A346",1
+"ZoneA","Error001","Minor damage","A363",1
+"ZoneC","Error005","Severe damage","A365",1
+"ZoneA","Error003","Severe damage","A367",1
+"ZoneB","Error005","Severe damage","A382",1
+"ZoneD","Error004","Very minor damage","A383",1
+"ZoneC","Error004","Minor damage","A392",1
+"ZoneB","Error001","Severe damage","A393",1
+"ZoneA","Error002","No damage","A405",1
+"ZoneB","Error001","Very minor damage","A409",1
+"ZoneA","Error002","No damage","A411",1
+"ZoneA","Error002","No damage","A415",1
+"ZoneD","Error004","Severe damage","A426",1
+"ZoneC","Error005","Minor damage","A430",1
+"ZoneD","Error005","Severe damage","A435",1
+"ZoneA","Error003","Severe damage","A444",1
+"ZoneD","Error005","Minor damage","A448",1
+"ZoneA","Error002","No damage","A459",1
+"ZoneA","Error002","No damage","A482",1
+"ZoneC","Error003","Very minor damage","A485",1
+"ZoneA","Error001","Moderate damage","A489",1
+"ZoneD","Error003","Moderate damage","A497",1
+"ZoneD","Error002","No damage","A502",1
+"ZoneD","Error001","Very minor damage","A504",1
+"ZoneB","Error002","No damage","A510",1
+"ZoneC","Error002","No damage","A513",1
+"ZoneC","Error005","Severe damage","A514",1
+"ZoneB","Error002","No damage","A515",1
+"ZoneA","Error003","Minor damage","A518",1
+"ZoneA","Error005","Minor damage","A523",1
+"ZoneA","Error004","Severe damage","A555",1
+"ZoneB","Error003","Severe damage","A577",1
+"ZoneC","Error001","Very minor damage","A578",1
+"ZoneA","Error002","No damage","A584",1
+"ZoneA","Error003","Severe damage","A604",1
+"ZoneC","Error001","Minor damage","A607",1
+"ZoneC","Error004","Severe damage","A610",1
+"ZoneD","Error002","No damage","A613",1
+"ZoneD","Error003","Minor damage","A623",1
+"ZoneA","Error004","Minor damage","A624",1
+"ZoneB","Error005","Minor damage","A961",1
+"ZoneB","Error005","Moderate damage","A962",1
+"ZoneC","Error005","Minor damage","A964",1
+"ZoneC","Error005","Moderate damage","A966",1
+"ZoneA","Error004","Severe damage","A967",1
+"ZoneA","Error001","Severe damage","A998",1
+"ZoneC","Error005","Severe damage","A1002",1
+"ZoneD","Error002","No damage","A1015",1
+"ZoneC","Error002","No damage","A1027",1
+"ZoneA","Error003","Severe damage","A1028",1
+"ZoneB","Error001","Moderate damage","A1041",1
+"ZoneC","Error004","Severe damage","A1052",1
+"ZoneD","Error001","Minor damage","A1056",1
+"ZoneB","Error002","No damage","A1059",1
+"ZoneD","Error002","No damage","A1062",1
+"ZoneC","Error003","Minor damage","A1066",1
+"ZoneC","Error003","Very minor damage","A1072",1
+"ZoneC","Error001","Very minor damage","A1084",1
+"ZoneA","Error002","No damage","A1094",1
+"ZoneB","Error004","Minor damage","A1107",1
+"ZoneD","Error002","No damage","A1113",1
+"ZoneC","Error004","Severe damage","A1115",1
+"ZoneC","Error002","No damage","A1116",1
+"ZoneB","Error004","Moderate damage","A1124",1
+"ZoneD","Error004","Moderate damage","A1128",1
+"ZoneC","Error004","Severe damage","A1136",1
+"ZoneC","Error002","No damage","A1144",1
+"ZoneB","Error002","No damage","A1157",1
+"ZoneA","Error001","Severe damage","A1158",1
+"ZoneD","Error001","Moderate damage","A1165",1
+"ZoneB","Error002","No damage","A1187",1
+"ZoneC","Error002","No damage","A1210",1
+"ZoneB","Error003","Moderate damage","A1211",1
+"ZoneB","Error002","No damage","A1223",1
+"ZoneB","Error002","No damage","A1242",1
+"ZoneC","Error002","No damage","A1247",1
+"ZoneC","Error003","Severe damage","A1249",1
+"ZoneD","Error001","Moderate damage","A1251",1
+"ZoneA","Error003","Severe damage","A1262",1
+"ZoneC","Error002","No damage","A1273",1
+"ZoneD","Error005","Moderate damage","A1278",1
+"ZoneC","Error002","No damage","A1291",1
+"ZoneA","Error004","Very minor damage","A799",1
+"ZoneA","Error004","Moderate damage","A807",1
+"ZoneC","Error003","Moderate damage","A840",1
+"ZoneA","Error002","No damage","A841",1
+"ZoneA","Error004","Severe damage","A848",1
+"ZoneB","Error001","Severe damage","A856",1
+"ZoneC","Error003","Very minor damage","A860",1
+"ZoneC","Error003","Moderate damage","A861",1
+"ZoneC","Error003","Minor damage","A870",1
+"ZoneC","Error005","Severe damage","A897",1
+"ZoneC","Error001","Moderate damage","A898",1
+"ZoneB","Error001","Severe damage","A909",1
+"ZoneA","Error001","Very minor damage","A911",1
+"ZoneC","Error005","Moderate damage","A912",1
+"ZoneA","Error002","No damage","A919",1
+"ZoneB","Error001","Moderate damage","A924",1
+"ZoneD","Error002","No damage","A925",1
+"ZoneB","Error005","Moderate damage","A926",1
+"ZoneB","Error001","Minor damage","A933",1
+"ZoneB","Error002","No damage","A935",1
+"ZoneD","Error003","Severe damage","A940",1
+"ZoneD","Error002","No damage","A645",1
+"ZoneD","Error002","No damage","A646",1
+"ZoneC","Error005","Minor damage","A654",1
+"ZoneC","Error005","Very minor damage","A657",1
+"ZoneA","Error002","No damage","A659",1
+"ZoneC","Error001","Severe damage","A662",1
+"ZoneA","Error002","No damage","A670",1
+"ZoneC","Error004","Severe damage","A681",1
+"ZoneA","Error001","Minor damage","A688",1
+"ZoneB","Error003","Minor damage","A695",1
+"ZoneB","Error001","Moderate damage","A703",1
+"ZoneA","Error003","Moderate damage","A715",1
+"ZoneA","Error002","No damage","A719",1
+"ZoneB","Error004","Moderate damage","A720",1
+"ZoneC","Error005","Very minor damage","A722",1
+"ZoneA","Error005","Minor damage","A729",1
+"ZoneC","Error003","Minor damage","A731",1
+"ZoneC","Error003","Very minor damage","A732",1
+"ZoneB","Error001","Severe damage","A736",1
+"ZoneD","Error005","Minor damage","A742",1
+"ZoneD","Error001","Severe damage","A756",1
+"ZoneC","Error004","Minor damage","A762",1
+"ZoneD","Error002","No damage","A768",1
+"ZoneB","Error001","Minor damage","A773",1
+"ZoneC","Error002","No damage","A776",1
+"ZoneA","Error005","Severe damage","A311",1
+"ZoneD","Error002","No damage","A327",1
+"ZoneB","Error001","Severe damage","A335",1
+"ZoneB","Error002","No damage","A353",1
+"ZoneC","Error003","Very minor damage","A356",1
+"ZoneB","Error003","Very minor damage","A370",1
+"ZoneD","Error002","No damage","A389",1
+"ZoneA","Error002","No damage","A391",1
+"ZoneD","Error001","Moderate damage","A400",1
+"ZoneC","Error002","No damage","A419",1
+"ZoneC","Error001","Very minor damage","A451",1
+"ZoneB","Error003","Moderate damage","A454",1
+"ZoneD","Error002","No damage","A455",1
+"ZoneB","Error002","No damage","A460",1
+"ZoneC","Error002","No damage","A484",1
+"ZoneA","Error002","No damage","A487",1
+"ZoneD","Error003","Severe damage","A494",1
+"ZoneA","Error002","No damage","A501",1
+"ZoneD","Error005","Severe damage","A509",1
+"ZoneC","Error002","No damage","A519",1
+"ZoneD","Error002","No damage","A521",1
+"ZoneC","Error003","Very minor damage","A528",1
+"ZoneB","Error002","No damage","A547",1
+"ZoneA","Error001","Moderate damage","A554",1
+"ZoneD","Error002","No damage","A563",1
+"ZoneD","Error003","Very minor damage","A583",1
+"ZoneC","Error002","No damage","A588",1
+"ZoneC","Error001","Very minor damage","A590",1
+"ZoneB","Error001","Minor damage","A593",1
+"ZoneA","Error003","Severe damage","A618",1
+"ZoneD","Error002","No damage","A628",1
+"ZoneC","Error004","Minor damage","A631",1
+"ZoneB","Error002","No damage","A953",1
+"ZoneA","Error002","No damage","A956",1
+"ZoneA","Error002","No damage","A971",1
+"ZoneA","Error002","No damage","A983",1
+"ZoneD","Error002","No damage","A991",1
+"ZoneA","Error001","Severe damage","A994",1
+"ZoneB","Error001","Severe damage","A1000",1
+"ZoneA","Error001","Moderate damage","A1031",1
+"ZoneC","Error005","Moderate damage","A1033",1
+"ZoneA","Error002","No damage","A1039",1
+"ZoneD","Error002","No damage","A1058",1
+"ZoneD","Error005","Minor damage","A1060",1
+"ZoneA","Error004","Very minor damage","A1064",1
+"ZoneD","Error005","Severe damage","A1074",1
+"ZoneA","Error002","No damage","A1089",1
+"ZoneC","Error005","Very minor damage","A1101",1
+"ZoneD","Error002","No damage","A1106",1
+"ZoneA","Error004","Severe damage","A1127",1
+"ZoneB","Error003","Very minor damage","A1139",1
+"ZoneC","Error002","No damage","A1141",1
+"ZoneD","Error001","Moderate damage","A1149",1
+"ZoneA","Error002","No damage","A1150",1
+"ZoneA","Error001","Very minor damage","A1151",1
+"ZoneC","Error004","Minor damage","A1169",1
+"ZoneD","Error002","No damage","A1185",1
+"ZoneC","Error001","Minor damage","A1197",1
+"ZoneA","Error002","No damage","A1205",1
+"ZoneA","Error002","No damage","A1218",1
+"ZoneC","Error003","Severe damage","A1221",1
+"ZoneD","Error002","No damage","A1232",1
+"ZoneA","Error002","No damage","A1238",1
+"ZoneC","Error005","Severe damage","A1240",1
+"ZoneD","Error001","Severe damage","A1241",1
+"ZoneA","Error002","No damage","A1261",1
+"ZoneB","Error002","No damage","A1264",1
+"ZoneB","Error005","Minor damage","A1277",1
+"ZoneB","Error002","No damage","A1283",1
+"ZoneA","Error002","No damage","A1284",1
+"ZoneC","Error004","Moderate damage","A1285",1
+"ZoneA","Error005","Moderate damage","A1293",1
+"ZoneB","Error001","Severe damage","A1294",1
+"ZoneB","Error003","Very minor damage","A1300",1
+"ZoneD","Error001","Minor damage","A1301",1
+"ZoneC","Error002","No damage","A795",1
+"ZoneB","Error005","Very minor damage","A817",1
+"ZoneB","Error001","Moderate damage","A819",1
+"ZoneD","Error002","No damage","A830",1
+"ZoneA","Error002","No damage","A835",1
+"ZoneC","Error003","Severe damage","A846",1
+"ZoneC","Error003","Very minor damage","A854",1
+"ZoneA","Error003","Minor damage","A859",1
+"ZoneC","Error003","Severe damage","A871",1
+"ZoneC","Error004","Minor damage","A874",1
+"ZoneC","Error004","Moderate damage","A875",1
+"ZoneB","Error002","No damage","A876",1
+"ZoneB","Error005","Very minor damage","A877",1
+"ZoneA","Error001","Minor damage","A886",1
+"ZoneB","Error002","No damage","A891",1
+"ZoneB","Error002","No damage","A893",1
+"ZoneB","Error001","Moderate damage","A894",1
+"ZoneD","Error003","Very minor damage","A905",1
+"ZoneD","Error005","Very minor damage","A906",1
+"ZoneB","Error002","No damage","A908",1
+"ZoneB","Error001","Moderate damage","A913",1
+"ZoneA","Error004","Moderate damage","A938",1
+"ZoneD","Error003","Moderate damage","A939",1
+"ZoneB","Error002","No damage","A945",1
+"ZoneA","Error002","No damage","A632",1
+"ZoneC","Error002","No damage","A639",1
+"ZoneD","Error002","No damage","A647",1
+"ZoneA","Error004","Severe damage","A650",1
+"ZoneD","Error001","Minor damage","A663",1
+"ZoneB","Error004","Severe damage","A679",1
+"ZoneD","Error005","Minor damage","A683",1
+"ZoneD","Error005","Very minor damage","A692",1
+"ZoneA","Error003","Very minor damage","A702",1
+"ZoneB","Error004","Minor damage","A707",1
+"ZoneB","Error002","No damage","A710",1
+"ZoneC","Error005","Moderate damage","A711",1
+"ZoneB","Error001","Minor damage","A716",1
+"ZoneB","Error002","No damage","A727",1
+"ZoneC","Error005","Moderate damage","A738",1
+"ZoneB","Error003","Very minor damage","A739",1
+"ZoneD","Error002","No damage","A744",1
+"ZoneD","Error002","No damage","A746",1
+"ZoneD","Error005","Very minor damage","A751",1
+"ZoneA","Error004","Severe damage","A757",1
+"ZoneD","Error002","No damage","A760",1
+"ZoneC","Error005","Very minor damage","A781",1
+"ZoneA","Error004","Minor damage","A782",1
+"ZoneB","Error002","No damage","A787",1
+"ZoneC","Error003","Very minor damage","A249",1
+"ZoneA","Error001","Very minor damage","A310",1
+"ZoneB","Error002","No damage","A315",1
+"ZoneD","Error005","Moderate damage","A318",1
+"ZoneD","Error005","Moderate damage","A328",1
+"ZoneD","Error004","Severe damage","A332",1
+"ZoneC","Error005","Very minor damage","A359",1
+"ZoneB","Error005","Very minor damage","A368",1
+"ZoneC","Error002","No damage","A371",1
+"ZoneC","Error001","Severe damage","A372",1
+"ZoneB","Error002","No damage","A386",1
+"ZoneA","Error002","No damage","A390",1
+"ZoneB","Error003","Moderate damage","A394",1
+"ZoneA","Error003","Severe damage","A408",1
+"ZoneB","Error003","Very minor damage","A416",1
+"ZoneA","Error002","No damage","A434",1
+"ZoneA","Error004","Very minor damage","A442",1
+"ZoneA","Error005","Moderate damage","A452",1
+"ZoneA","Error002","No damage","A457",1
+"ZoneC","Error004","Very minor damage","A463",1
+"ZoneB","Error004","Moderate damage","A465",1
+"ZoneD","Error002","No damage","A470",1
+"ZoneC","Error002","No damage","A479",1
+"ZoneA","Error004","Minor damage","A480",1
+"ZoneB","Error005","Moderate damage","A486",1
+"ZoneB","Error003","Minor damage","A490",1
+"ZoneC","Error005","Severe damage","A496",1
+"ZoneC","Error004","Moderate damage","A500",1
+"ZoneA","Error002","No damage","A503",1
+"ZoneD","Error003","Severe damage","A508",1
+"ZoneB","Error002","No damage","A511",1
+"ZoneB","Error003","Very minor damage","A516",1
+"ZoneC","Error001","Very minor damage","A520",1
+"ZoneA","Error001","Very minor damage","A527",1
+"ZoneD","Error002","No damage","A529",1
+"ZoneD","Error002","No damage","A538",1
+"ZoneA","Error001","Minor damage","A539",1
+"ZoneA","Error003","Minor damage","A541",1
+"ZoneC","Error002","No damage","A543",1
+"ZoneC","Error001","Very minor damage","A549",1
+"ZoneB","Error002","No damage","A560",1
+"ZoneD","Error001","Severe damage","A561",1
+"ZoneA","Error001","Severe damage","A568",1
+"ZoneA","Error002","No damage","A569",1
+"ZoneC","Error002","No damage","A571",1
+"ZoneA","Error001","Moderate damage","A575",1
+"ZoneD","Error002","No damage","A582",1
+"ZoneD","Error002","No damage","A589",1
+"ZoneD","Error005","Severe damage","A591",1
+"ZoneC","Error003","Minor damage","A596",1
+"ZoneC","Error004","Minor damage","A597",1
+"ZoneA","Error003","Minor damage","A600",1
+"ZoneD","Error002","No damage","A957",1
+"ZoneC","Error003","Moderate damage","A958",1
+"ZoneC","Error001","Moderate damage","A965",1
+"ZoneC","Error002","No damage","A970",1
+"ZoneD","Error002","No damage","A975",1
+"ZoneC","Error001","Severe damage","A977",1
+"ZoneA","Error002","No damage","A980",1
+"ZoneA","Error002","No damage","A988",1
+"ZoneC","Error002","No damage","A1003",1
+"ZoneD","Error004","Moderate damage","A1009",1
+"ZoneA","Error001","Minor damage","A1021",1
+"ZoneA","Error002","No damage","A1022",1
+"ZoneB","Error003","Very minor damage","A1025",1
+"ZoneD","Error004","Severe damage","A1029",1
+"ZoneD","Error003","Severe damage","A1040",1
+"ZoneD","Error002","No damage","A1044",1
+"ZoneA","Error003","Severe damage","A1048",1
+"ZoneC","Error003","Very minor damage","A1057",1
+"ZoneD","Error003","Very minor damage","A1063",1
+"ZoneD","Error002","No damage","A1078",1
+"ZoneA","Error004","Moderate damage","A1082",1
+"ZoneB","Error002","No damage","A1096",1
+"ZoneC","Error002","No damage","A1104",1
+"ZoneC","Error003","Severe damage","A1105",1
+"ZoneD","Error005","Minor damage","A1108",1
+"ZoneA","Error005","Severe damage","A1126",1
+"ZoneB","Error003","Minor damage","A1134",1
+"ZoneD","Error005","Severe damage","A1138",1
+"ZoneC","Error001","Very minor damage","A1142",1
+"ZoneA","Error002","No damage","A1152",1
+"ZoneA","Error002","No damage","A1155",1
+"ZoneC","Error005","Severe damage","A1159",1
+"ZoneC","Error004","Very minor damage","A1162",1
+"ZoneA","Error001","Moderate damage","A1174",1
+"ZoneC","Error005","Very minor damage","A1182",1
+"ZoneC","Error003","Very minor damage","A1186",1
+"ZoneD","Error003","Minor damage","A1192",1
+"ZoneD","Error005","Moderate damage","A1196",1
+"ZoneD","Error001","Moderate damage","A1199",1
+"ZoneB","Error002","No damage","A1213",1
+"ZoneD","Error003","Severe damage","A1220",1
+"ZoneD","Error002","No damage","A1222",1
+"ZoneD","Error002","No damage","A1225",1
+"ZoneB","Error005","Severe damage","A1230",1
+"ZoneB","Error003","Severe damage","A1234",1
+"ZoneC","Error003","Severe damage","A1236",1
+"ZoneB","Error002","No damage","A1254",1
+"ZoneA","Error005","Severe damage","A1258",1
+"ZoneB","Error002","No damage","A1272",1
+"ZoneC","Error001","Minor damage","A1274",1
+"ZoneA","Error002","No damage","A1298",1
+"ZoneC","Error001","Very minor damage","A1303",1
+"ZoneD","Error005","Minor damage","A797",1
+"ZoneB","Error002","No damage","A803",1
+"ZoneB","Error004","Severe damage","A808",1
+"ZoneB","Error001","Moderate damage","A814",1
+"ZoneD","Error003","Minor damage","A820",1
+"ZoneD","Error002","No damage","A824",1
+"ZoneA","Error002","No damage","A825",1
+"ZoneB","Error004","Severe damage","A831",1
+"ZoneA","Error002","No damage","A847",1
+"ZoneB","Error001","Minor damage","A850",1
+"ZoneB","Error002","No damage","A858",1
+"ZoneB","Error002","No damage","A881",1
+"ZoneD","Error001","Severe damage","A884",1
+"ZoneB","Error005","Severe damage","A902",1
+"ZoneC","Error002","No damage","A904",1
+"ZoneB","Error002","No damage","A928",1
+"ZoneD","Error001","Severe damage","A944",1
+"ZoneC","Error005","Severe damage","A636",1
+"ZoneB","Error002","No damage","A641",1
+"ZoneA","Error002","No damage","A642",1
+"ZoneA","Error004","Minor damage","A644",1
+"ZoneB","Error002","No damage","A655",1
+"ZoneD","Error002","No damage","A669",1
+"ZoneD","Error002","No damage","A671",1
+"ZoneD","Error003","Severe damage","A673",1
+"ZoneB","Error004","Severe damage","A680",1
+"ZoneA","Error001","Moderate damage","A714",1
+"ZoneC","Error004","Severe damage","A723",1
+"ZoneC","Error002","No damage","A724",1
+"ZoneB","Error003","Very minor damage","A730",1
+"ZoneC","Error002","No damage","A733",1
+"ZoneC","Error002","No damage","A758",1
+"ZoneD","Error001","Severe damage","A764",1
+"ZoneA","Error005","Moderate damage","A774",1
+"ZoneD","Error002","No damage","A775",1
+"ZoneB","Error005","Very minor damage","A778",1
+"ZoneC","Error005","Very minor damage","A783",1
+"ZoneB","Error005","Severe damage","A788",1
+"ZoneA","Error004","Minor damage","A308",1
+"ZoneB","Error001","Moderate damage","A316",1
+"ZoneD","Error001","Severe damage","A322",1
+"ZoneA","Error001","Minor damage","A336",1
+"ZoneA","Error005","Moderate damage","A341",1
+"ZoneD","Error002","No damage","A348",1
+"ZoneD","Error001","Severe damage","A349",1
+"ZoneA","Error002","No damage","A360",1
+"ZoneB","Error002","No damage","A362",1
+"ZoneA","Error003","Severe damage","A366",1
+"ZoneD","Error004","Very minor damage","A380",1
+"ZoneB","Error003","Minor damage","A381",1
+"ZoneB","Error002","No damage","A396",1
+"ZoneD","Error005","Minor damage","A402",1
+"ZoneB","Error003","Minor damage","A423",1
+"ZoneC","Error001","Minor damage","A424",1
+"ZoneD","Error001","Very minor damage","A443",1
+"ZoneC","Error001","Severe damage","A446",1
+"ZoneB","Error005","Moderate damage","A469",1
+"ZoneD","Error004","Minor damage","A481",1
+"ZoneB","Error001","Minor damage","A488",1
+"ZoneD","Error004","Moderate damage","A517",1
+"ZoneA","Error003","Very minor damage","A522",1
+"ZoneA","Error001","Minor damage","A526",1
+"ZoneD","Error002","No damage","A532",1
+"ZoneC","Error001","Moderate damage","A542",1
+"ZoneA","Error001","Moderate damage","A544",1
+"ZoneA","Error003","Minor damage","A548",1
+"ZoneC","Error002","No damage","A552",1
+"ZoneC","Error002","No damage","A553",1
+"ZoneB","Error002","No damage","A570",1
+"ZoneB","Error003","Severe damage","A595",1
+"ZoneA","Error001","Moderate damage","A601",1
+"ZoneD","Error004","Very minor damage","A603",1
+"ZoneB","Error002","No damage","A608",1
+"ZoneC","Error001","Moderate damage","A947",1
+"ZoneD","Error002","No damage","A951",1
+"ZoneB","Error001","Severe damage","A952",1
+"ZoneD","Error001","Moderate damage","A959",1
+"ZoneC","Error003","Severe damage","A960",1
+"ZoneB","Error004","Severe damage","A972",1
+"ZoneD","Error005","Moderate damage","A976",1
+"ZoneC","Error002","No damage","A984",1
+"ZoneD","Error005","Moderate damage","A985",1
+"ZoneB","Error001","Severe damage","A1001",1
+"ZoneD","Error001","Severe damage","A1007",1
+"ZoneC","Error001","Severe damage","A1014",1
+"ZoneD","Error003","Very minor damage","A1026",1
+"ZoneC","Error003","Very minor damage","A1034",1
+"ZoneA","Error003","Minor damage","A1046",1
+"ZoneA","Error003","Very minor damage","A1053",1
+"ZoneB","Error003","Minor damage","A1081",1
+"ZoneB","Error002","No damage","A1083",1
+"ZoneB","Error002","No damage","A1085",1
+"ZoneC","Error002","No damage","A1090",1
+"ZoneB","Error003","Very minor damage","A1098",1
+"ZoneD","Error003","Very minor damage","A1111",1
+"ZoneB","Error002","No damage","A1112",1
+"ZoneB","Error005","Minor damage","A1117",1
+"ZoneC","Error002","No damage","A1118",1
+"ZoneB","Error005","Moderate damage","A1123",1
+"ZoneD","Error004","Severe damage","A1140",1
+"ZoneC","Error002","No damage","A1147",1
+"ZoneC","Error002","No damage","A1148",1
+"ZoneA","Error002","No damage","A1153",1
+"ZoneB","Error002","No damage","A1168",1
+"ZoneC","Error002","No damage","A1173",1
+"ZoneC","Error005","Very minor damage","A1178",1
+"ZoneC","Error005","Moderate damage","A1179",1
+"ZoneB","Error003","Very minor damage","A1183",1
+"ZoneD","Error002","No damage","A1184",1
+"ZoneD","Error004","Moderate damage","A1191",1
+"ZoneB","Error002","No damage","A1198",1
+"ZoneB","Error002","No damage","A1204",1
+"ZoneD","Error002","No damage","A1208",1
+"ZoneD","Error004","Minor damage","A1209",1
+"ZoneA","Error004","Moderate damage","A1215",1
+"ZoneC","Error002","No damage","A1219",1
+"ZoneC","Error002","No damage","A1224",1
+"ZoneD","Error001","Moderate damage","A1227",1
+"ZoneD","Error005","Very minor damage","A1253",1
+"ZoneA","Error001","Severe damage","A792",1
+"ZoneD","Error003","Moderate damage","A798",1
+"ZoneC","Error002","No damage","A800",1
+"ZoneC","Error003","Minor damage","A809",1
+"ZoneB","Error001","Very minor damage","A813",1
+"ZoneA","Error004","Severe damage","A818",1
+"ZoneB","Error001","Very minor damage","A837",1
+"ZoneD","Error003","Severe damage","A838",1
+"ZoneC","Error002","No damage","A852",1
+"ZoneC","Error002","No damage","A853",1
+"ZoneB","Error002","No damage","A855",1
+"ZoneA","Error002","No damage","A862",1
+"ZoneB","Error002","No damage","A866",1
+"ZoneC","Error002","No damage","A880",1
+"ZoneA","Error002","No damage","A888",1
+"ZoneA","Error002","No damage","A901",1
+"ZoneA","Error001","Minor damage","A907",1
+"ZoneA","Error002","No damage","A914",1
+"ZoneD","Error002","No damage","A929",1
+"ZoneD","Error004","Moderate damage","A930",1
+"ZoneB","Error010","No damage","A2000",1
+"ZoneC","Error002","No damage","A640",1
+"ZoneA","Error004","Very minor damage","A651",1
+"ZoneC","Error004","Minor damage","A658",1
+"ZoneC","Error003","Moderate damage","A661",1
+"ZoneA","Error004","Moderate damage","A666",1
+"ZoneC","Error003","Minor damage","A672",1
+"ZoneC","Error001","Very minor damage","A698",1
+"ZoneA","Error002","No damage","A725",1
+"ZoneB","Error005","Very minor damage","A741",1
+"ZoneB","Error004","Severe damage","A748",1
+"ZoneC","Error001","Minor damage","A750",1
+"ZoneB","Error004","Very minor damage","A766",1
+"ZoneD","Error003","Moderate damage","A771",1
+"ZoneA","Error002","No damage","A313",1
+"ZoneD","Error002","No damage","A319",1
+"ZoneB","Error004","Minor damage","A325",1
+"ZoneD","Error002","No damage","A326",1
+"ZoneB","Error003","Very minor damage","A330",1
+"ZoneA","Error003","Moderate damage","A347",1
+"ZoneC","Error002","No damage","A351",1
+"ZoneC","Error003","Severe damage","A358",1
+"ZoneC","Error005","Severe damage","A403",1
+"ZoneC","Error002","No damage","A406",1
+"ZoneD","Error005","Moderate damage","A412",1
+"ZoneC","Error001","Severe damage","A425",1
+"ZoneC","Error002","No damage","A429",1
+"ZoneB","Error003","Very minor damage","A433",1
+"ZoneB","Error001","Minor damage","A436",1
+"ZoneC","Error005","Very minor damage","A438",1
+"ZoneB","Error002","No damage","A445",1
+"ZoneC","Error004","Very minor damage","A449",1
+"ZoneC","Error005","Moderate damage","A453",1
+"ZoneD","Error005","Severe damage","A458",1
+"ZoneC","Error003","Moderate damage","A462",1
+"ZoneA","Error003","Very minor damage","A474",1
+"ZoneA","Error002","No damage","A499",1
+"ZoneD","Error002","No damage","A507",1
+"ZoneD","Error002","No damage","A535",1
+"ZoneD","Error002","No damage","A537",1
+"ZoneD","Error001","Severe damage","A557",1
+"ZoneD","Error002","No damage","A581",1
+"ZoneB","Error001","Moderate damage","A585",1
+"ZoneA","Error005","Minor damage","A594",1
+"ZoneB","Error002","No damage","A602",1
+"ZoneA","Error002","No damage","A605",1
+"ZoneB","Error002","No damage","A614",1
+"ZoneC","Error002","No damage","A617",1
+"ZoneD","Error002","No damage","A619",1
+"ZoneB","Error001","Moderate damage","A622",1
+"ZoneC","Error002","No damage","A955",1
+"ZoneA","Error005","Minor damage","A973",1
+"ZoneC","Error005","Severe damage","A978",1
+"ZoneC","Error004","Very minor damage","A995",1
+"ZoneB","Error002","No damage","A1004",1
+"ZoneD","Error004","Minor damage","A1008",1
+"ZoneC","Error002","No damage","A1011",1
+"ZoneC","Error002","No damage","A1012",1
+"ZoneC","Error004","Severe damage","A1016",1
+"ZoneB","Error004","Severe damage","A1017",1
+"ZoneD","Error002","No damage","A1024",1
+"ZoneC","Error003","Very minor damage","A1032",1
+"ZoneB","Error004","Very minor damage","A1054",1
+"ZoneA","Error003","Minor damage","A1079",1
+"ZoneD","Error001","Very minor damage","A1080",1
+"ZoneD","Error002","No damage","A1099",1
+"ZoneD","Error001","Very minor damage","A1119",1
+"ZoneB","Error002","No damage","A1120",1
+"ZoneB","Error004","Very minor damage","A1154",1
+"ZoneB","Error002","No damage","A1156",1
+"ZoneB","Error002","No damage","A1164",1
+"ZoneD","Error002","No damage","A1166",1
+"ZoneA","Error001","Moderate damage","A1171",1
+"ZoneD","Error003","Very minor damage","A1175",1
+"ZoneD","Error005","Severe damage","A1176",1
+"ZoneB","Error003","Moderate damage","A1206",1
+"ZoneC","Error003","Very minor damage","A1212",1
+"ZoneC","Error001","Moderate damage","A1216",1
+"ZoneC","Error003","Very minor damage","A1250",1
+"ZoneD","Error001","Minor damage","A1260",1
+"ZoneA","Error005","Very minor damage","A1266",1
+"ZoneA","Error004","Very minor damage","A1267",1
+"ZoneB","Error002","No damage","A1270",1
+"ZoneC","Error003","Minor damage","A1279",1
+"ZoneB","Error002","No damage","A1281",1
+"ZoneB","Error002","No damage","A1286",1
+"ZoneC","Error002","No damage","A1288",1
+"ZoneA","Error002","No damage","A1297",1
+"ZoneB","Error002","No damage","A1302",1
+"ZoneB","Error001","Very minor damage","A791",1
+"ZoneA","Error002","No damage","A796",1
+"ZoneC","Error002","No damage","A804",1
+"ZoneC","Error001","Very minor damage","A816",1
+"ZoneA","Error001","Severe damage","A822",1
+"ZoneC","Error004","Very minor damage","A823",1
+"ZoneC","Error001","Severe damage","A827",1
+"ZoneD","Error002","No damage","A828",1
+"ZoneD","Error001","Severe damage","A833",1
+"ZoneC","Error003","Very minor damage","A836",1
+"ZoneD","Error005","Severe damage","A845",1
+"ZoneD","Error002","No damage","A851",1
+"ZoneA","Error004","Minor damage","A863",1
+"ZoneD","Error004","Very minor damage","A868",1
+"ZoneC","Error002","No damage","A882",1
+"ZoneA","Error002","No damage","A890",1
+"ZoneD","Error002","No damage","A892",1
+"ZoneC","Error001","Severe damage","A903",1
+"ZoneD","Error003","Severe damage","A910",1
+"ZoneA","Error002","No damage","A920",1
+"ZoneA","Error004","Very minor damage","A921",1
+"ZoneB","Error003","Minor damage","A931",1
+"ZoneB","Error003","Severe damage","A942",1
+"ZoneB","Error001","Severe damage","A634",1
+"ZoneA","Error004","Very minor damage","A637",1
+"ZoneB","Error003","Severe damage","A649",1
+"ZoneC","Error002","No damage","A682",1
+"ZoneD","Error002","No damage","A691",1
+"ZoneC","Error005","Very minor damage","A694",1
+"ZoneC","Error003","Minor damage","A696",1
+"ZoneC","Error004","Moderate damage","A700",1
+"ZoneA","Error002","No damage","A705",1
+"ZoneB","Error003","Moderate damage","A713",1
+"ZoneC","Error005","Minor damage","A717",1
+"ZoneA","Error004","Very minor damage","A718",1
+"ZoneC","Error005","Severe damage","A721",1
+"ZoneA","Error004","Very minor damage","A737",1
+"ZoneA","Error002","No damage","A753",1
+"ZoneA","Error003","Minor damage","A754",1
+"ZoneA","Error003","Moderate damage","A765",1
+"ZoneD","Error003","Moderate damage","A785",1
+"ZoneD","Error004","Moderate damage","A786",1
+"ZoneD","Error004","Severe damage","A286",1
+"ZoneD","Error002","No damage","A312",1
+"ZoneA","Error002","No damage","A314",1
+"ZoneC","Error002","No damage","A329",1
+"ZoneC","Error002","No damage","A343",1
+"ZoneD","Error001","Moderate damage","A344",1
+"ZoneB","Error005","Moderate damage","A350",1
+"ZoneA","Error003","Moderate damage","A375",1
+"ZoneD","Error002","No damage","A377",1
+"ZoneA","Error002","No damage","A385",1
+"ZoneA","Error005","Moderate damage","A388",1
+"ZoneD","Error004","Severe damage","A397",1
+"ZoneA","Error002","No damage","A401",1
+"ZoneA","Error004","Minor damage","A404",1
+"ZoneB","Error002","No damage","A413",1
+"ZoneD","Error002","No damage","A417",1
+"ZoneC","Error002","No damage","A420",1
+"ZoneC","Error005","Moderate damage","A427",1
+"ZoneD","Error001","Severe damage","A428",1
+"ZoneA","Error002","No damage","A432",1
+"ZoneA","Error003","Moderate damage","A437",1
+"ZoneD","Error004","Severe damage","A439",1
+"ZoneB","Error004","Moderate damage","A450",1
+"ZoneD","Error002","No damage","A456",1
+"ZoneD","Error001","Minor damage","A464",1
+"ZoneC","Error002","No damage","A472",1
+"ZoneC","Error005","Minor damage","A476",1
+"ZoneC","Error002","No damage","A478",1
+"ZoneB","Error001","Minor damage","A491",1
+"ZoneD","Error003","Minor damage","A525",1
+"ZoneC","Error004","Moderate damage","A536",1
+"ZoneC","Error005","Severe damage","A545",1
+"ZoneC","Error001","Minor damage","A550",1
+"ZoneB","Error004","Moderate damage","A562",1
+"ZoneA","Error002","No damage","A567",1
+"ZoneB","Error002","No damage","A592",1
+"ZoneC","Error002","No damage","A598",1
+"ZoneD","Error005","Severe damage","A612",1
+"ZoneB","Error002","No damage","A615",1
+"ZoneA","Error004","Very minor damage","A948",1
+"ZoneA","Error002","No damage","A949",1
+"ZoneB","Error003","Very minor damage","A950",1
+"ZoneA","Error001","Severe damage","A974",1
+"ZoneA","Error002","No damage","A990",1
+"ZoneC","Error004","Minor damage","A996",1
+"ZoneA","Error001","Very minor damage","A997",1
+"ZoneC","Error005","Very minor damage","A999",1
+"ZoneC","Error003","Minor damage","A1005",1
+"ZoneA","Error002","No damage","A1006",1
+"ZoneB","Error005","Moderate damage","A1010",1
+"ZoneC","Error004","Very minor damage","A1013",1
+"ZoneD","Error005","Very minor damage","A1036",1
+"ZoneD","Error002","No damage","A1037",1
+"ZoneB","Error001","Minor damage","A1038",1
+"ZoneC","Error002","No damage","A1042",1
+"ZoneA","Error003","Severe damage","A1049",1
+"ZoneC","Error005","Moderate damage","A1067",1
+"ZoneD","Error002","No damage","A1070",1
+"ZoneA","Error001","Very minor damage","A1071",1
+"ZoneD","Error005","Very minor damage","A1076",1
+"ZoneA","Error003","Very minor damage","A1086",1
+"ZoneC","Error003","Moderate damage","A1088",1
+"ZoneB","Error002","No damage","A1091",1
+"ZoneB","Error002","No damage","A1097",1
+"ZoneA","Error002","No damage","A1102",1
+"ZoneC","Error002","No damage","A1103",1
+"ZoneC","Error002","No damage","A1122",1
+"ZoneB","Error002","No damage","A1130",1
+"ZoneC","Error004","Moderate damage","A1137",1
+"ZoneA","Error003","Moderate damage","A1143",1
+"ZoneD","Error001","Minor damage","A1163",1
+"ZoneB","Error004","Severe damage","A1167",1
+"ZoneD","Error001","Very minor damage","A1172",1
+"ZoneB","Error004","Minor damage","A1180",1
+"ZoneD","Error002","No damage","A1188",1
+"ZoneC","Error002","No damage","A1189",1
+"ZoneB","Error002","No damage","A1194",1
+"ZoneD","Error004","Minor damage","A1231",1
+"ZoneD","Error004","Moderate damage","A1235",1
+"ZoneA","Error004","Minor damage","A1244",1
+"ZoneD","Error002","No damage","A1255",1
+"ZoneB","Error002","No damage","A1259",1
+"ZoneB","Error004","Minor damage","A1271",1
+"ZoneB","Error004","Moderate damage","A1306",1
+"ZoneD","Error005","Minor damage","A802",1
+"ZoneD","Error005","Very minor damage","A805",1
+"ZoneD","Error004","Minor damage","A806",1
+"ZoneB","Error002","No damage","A811",1
+"ZoneB","Error002","No damage","A826",1
+"ZoneB","Error002","No damage","A832",1
+"ZoneD","Error002","No damage","A839",1
+"ZoneC","Error005","Minor damage","A878",1
+"ZoneA","Error004","Minor damage","A885",1
+"ZoneC","Error002","No damage","A900",1
+"ZoneD","Error003","Minor damage","A918",1
+"ZoneA","Error002","No damage","A922",1
+"ZoneA","Error002","No damage","A923",1
+"ZoneC","Error004","Severe damage","A932",1
+"ZoneB","Error003","Very minor damage","A936",1
+"ZoneD","Error001","Very minor damage","A941",1
+"ZoneB","Error002","No damage","A633",1
+"ZoneD","Error001","Severe damage","A635",1
+"ZoneC","Error002","No damage","A638",1
+"ZoneD","Error001","Moderate damage","A656",1
+"ZoneD","Error001","Very minor damage","A676",1
+"ZoneA","Error005","Minor damage","A693",1
+"ZoneD","Error001","Minor damage","A697",1
+"ZoneA","Error002","No damage","A699",1
+"ZoneD","Error003","Very minor damage","A704",1
+"ZoneA","Error003","Minor damage","A708",1
+"ZoneD","Error003","Severe damage","A712",1
+"ZoneD","Error004","Severe damage","A726",1
+"ZoneD","Error002","No damage","A735",1
+"ZoneD","Error002","No damage","A743",1
+"ZoneB","Error004","Very minor damage","A749",1
+"ZoneD","Error002","No damage","A763",1
+"ZoneB","Error005","Minor damage","A769",1
+"ZoneA","Error004","Severe damage","A779",1
+"ZoneA","Error005","Moderate damage","A784",1
+"ZoneA","Error002","No damage","A136",1
+"ZoneA","Error005","Very minor damage","A309",1
+"ZoneD","Error001","Moderate damage","A320",1
+"ZoneA","Error005","Severe damage","A339",1
+"ZoneA","Error003","Severe damage","A340",1
+"ZoneA","Error003","Very minor damage","A352",1
+"ZoneC","Error005","Very minor damage","A354",1
+"ZoneD","Error002","No damage","A355",1
+"ZoneB","Error002","No damage","A364",1
+"ZoneB","Error003","Moderate damage","A369",1
+"ZoneA","Error003","Minor damage","A374",1
+"ZoneB","Error002","No damage","A379",1
+"ZoneD","Error004","Severe damage","A384",1
+"ZoneB","Error002","No damage","A395",1
+"ZoneA","Error004","Moderate damage","A399",1
+"ZoneC","Error002","No damage","A407",1
+"ZoneA","Error002","No damage","A414",1
+"ZoneD","Error005","Minor damage","A422",1
+"ZoneA","Error003","Moderate damage","A431",1
+"ZoneA","Error001","Severe damage","A447",1
+"ZoneB","Error002","No damage","A466",1
+"ZoneA","Error005","Very minor damage","A471",1
+"ZoneB","Error005","Severe damage","A483",1
+"ZoneB","Error003","Minor damage","A492",1
+"ZoneB","Error003","Severe damage","A493",1
+"ZoneA","Error004","Severe damage","A498",1
+"ZoneC","Error004","Very minor damage","A506",1
+"ZoneD","Error001","Very minor damage","A524",1
+"ZoneC","Error001","Very minor damage","A533",1
+"ZoneB","Error002","No damage","A551",1
+"ZoneB","Error003","Very minor damage","A572",1
+"ZoneC","Error002","No damage","A573",1
+"ZoneD","Error001","Severe damage","A574",1
+"ZoneA","Error003","Very minor damage","A576",1
+"ZoneD","Error003","Minor damage","A609",1
+"ZoneB","Error005","Very minor damage","A611",1
+"ZoneC","Error005","Minor damage","A620",1
+"ZoneD","Error001","Minor damage","A625",1
+"ZoneD","Error001","Severe damage","A626",1
+"ZoneB","Error002","No damage","A630",1
+"ZoneD","Error002","No damage","A963",1
+"ZoneB","Error004","Moderate damage","A979",1
+"ZoneD","Error001","Moderate damage","A987",1
+"ZoneB","Error001","Moderate damage","A992",1
+"ZoneD","Error001","Moderate damage","A993",1
+"ZoneD","Error005","Very minor damage","A1019",1
+"ZoneD","Error002","No damage","A1020",1
+"ZoneD","Error001","Minor damage","A1023",1
+"ZoneC","Error002","No damage","A1043",1
+"ZoneB","Error002","No damage","A1050",1
+"ZoneD","Error005","Very minor damage","A1055",1
+"ZoneC","Error001","Very minor damage","A1061",1
+"ZoneB","Error002","No damage","A1069",1
+"ZoneD","Error004","Severe damage","A1075",1
+"ZoneC","Error005","Minor damage","A1087",1
+"ZoneD","Error004","Severe damage","A1092",1
+"ZoneD","Error004","Moderate damage","A1100",1
+"ZoneC","Error002","No damage","A1109",1
+"ZoneA","Error003","Very minor damage","A1121",1
+"ZoneC","Error003","Severe damage","A1132",1
+"ZoneC","Error003","Severe damage","A1135",1
+"ZoneA","Error005","Minor damage","A1146",1
+"ZoneB","Error002","No damage","A1160",1
+"ZoneB","Error001","Very minor damage","A1177",1
+"ZoneC","Error001","Severe damage","A1190",1
+"ZoneA","Error003","Severe damage","A1193",1
+"ZoneA","Error005","Minor damage","A1201",1
+"ZoneA","Error003","Minor damage","A1202",1
+"ZoneC","Error002","No damage","A1203",1
+"ZoneB","Error003","Very minor damage","A1207",1
+"ZoneC","Error002","No damage","A1214",1
+"ZoneD","Error001","Moderate damage","A1217",1
+"ZoneC","Error002","No damage","A1233",1
+"ZoneB","Error005","Very minor damage","A1245",1
+"ZoneA","Error005","Severe damage","A1246",1
+"ZoneD","Error002","No damage","A1263",1
+"ZoneC","Error001","Moderate damage","A1268",1
+"ZoneD","Error004","Severe damage","A1282",1
+"ZoneC","Error003","Minor damage","A1292",1
+"ZoneA","Error002","No damage","A1295",1
+"ZoneA","Error002","No damage","A1299",1
+"ZoneC","Error002","No damage","A1305",1
+"ZoneB","Error002","No damage","A794",1
+"ZoneB","Error002","No damage","A801",1
+"ZoneC","Error004","Moderate damage","A810",1
+"ZoneB","Error002","No damage","A815",1
+"ZoneB","Error002","No damage","A821",1
+"ZoneC","Error003","Moderate damage","A829",1
+"ZoneB","Error005","Very minor damage","A843",1
+"ZoneC","Error002","No damage","A857",1
+"ZoneD","Error005","Severe damage","A864",1
+"ZoneB","Error002","No damage","A865",1
+"ZoneA","Error005","Moderate damage","A867",1
+"ZoneD","Error005","Severe damage","A869",1
+"ZoneC","Error002","No damage","A872",1
+"ZoneA","Error005","Moderate damage","A873",1
+"ZoneD","Error002","No damage","A879",1
+"ZoneC","Error003","Very minor damage","A889",1
+"ZoneA","Error002","No damage","A899",1
+"ZoneA","Error005","Minor damage","A927",1
+"ZoneC","Error002","No damage","A934",1
+"ZoneA","Error002","No damage","A937",1
+"ZoneA","Error002","No damage","A943",1

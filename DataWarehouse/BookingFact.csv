@@ -1,0 +1,469 @@
+"FACULTYID","CARBODYTYPE","AGEID","MONTHID","NUM_OF_BOOKING"
+"ENG","Mini Bus","G3","10",7
+"SCI","Bus","G2","05",36
+"BUS","People Mover","G1","03",12
+"SCI","Mini Bus","G2","08",29
+"SCI","Mini Bus","G1","12",19
+"ENG","Mini Bus","G2","04",36
+"FIT","Bus","G2","04",35
+"SCI","Mini Bus","G2","01",33
+"ART","People Mover","G1","03",19
+"ART","People Mover","G1","10",15
+"FIT","People Mover","G2","09",37
+"ENG","Mini Bus","G2","07",33
+"SCI","Bus","G2","12",36
+"ENG","People Mover","G2","11",37
+"SCI","People Mover","G1","10",34
+"SCI","People Mover","G1","12",21
+"FIT","Mini Bus","G2","12",42
+"ART","Mini Bus","G2","11",15
+"ENG","Mini Bus","G2","01",29
+"SCI","Mini Bus","G2","09",27
+"ENG","People Mover","G1","10",30
+"BUS","Mini Bus","G2","06",19
+"SCI","Bus","G3","01",10
+"ART","Mini Bus","G1","01",19
+"SCI","Bus","G3","11",12
+"FIT","Mini Bus","G1","04",23
+"FIT","Mini Bus","G1","06",36
+"SCI","People Mover","G3","08",9
+"SCI","People Mover","G1","08",21
+"BUS","People Mover","G2","02",13
+"ART","Bus","G1","04",15
+"SCI","People Mover","G3","06",12
+"ENG","Bus","G3","12",2
+"BUS","Mini Bus","G2","10",21
+"ART","Bus","G2","05",16
+"SCI","Mini Bus","G1","05",31
+"BUS","People Mover","G2","08",19
+"BUS","Bus","G1","10",8
+"ART","Bus","G2","03",12
+"ENG","Bus","G3","01",2
+"SCI","People Mover","G3","05",11
+"FIT","Bus","G3","02",5
+"SCI","Bus","G3","05",11
+"SCI","Bus","G2","02",25
+"FIT","People Mover","G3","06",8
+"ENG","Bus","G3","05",3
+"SCI","Mini Bus","G3","04",10
+"ENG","People Mover","G3","02",1
+"FIT","Bus","G3","07",9
+"SCI","Mini Bus","G3","08",14
+"FIT","Bus","G2","09",50
+"ENG","People Mover","G2","02",32
+"SCI","Mini Bus","G1","07",21
+"SCI","Mini Bus","G2","07",28
+"FIT","Mini Bus","G3","10",10
+"FIT","People Mover","G2","02",43
+"ENG","People Mover","G2","10",40
+"BUS","Bus","G2","11",22
+"BUS","Bus","G2","06",15
+"FIT","People Mover","G2","12",47
+"SCI","People Mover","G2","01",31
+"ART","Mini Bus","G2","02",17
+"SCI","People Mover","G3","02",12
+"BUS","Mini Bus","G2","03",16
+"ART","Bus","G2","11",22
+"ENG","Mini Bus","G2","06",24
+"ART","Mini Bus","G1","12",16
+"FIT","Bus","G2","10",56
+"ART","Bus","G2","10",15
+"BUS","Mini Bus","G2","09",14
+"FIT","People Mover","G1","05",34
+"SCI","Mini Bus","G2","02",19
+"ART","Mini Bus","G2","04",31
+"FIT","Mini Bus","G1","02",30
+"SCI","Bus","G3","09",11
+"FIT","People Mover","G3","05",11
+"ENG","Bus","G1","01",38
+"BUS","Bus","G2","05",20
+"SCI","Bus","G2","01",23
+"FIT","People Mover","G1","01",35
+"FIT","Bus","G3","11",12
+"ENG","Bus","G2","06",31
+"FIT","Mini Bus","G2","03",37
+"SCI","People Mover","G1","09",33
+"FIT","People Mover","G3","12",10
+"SCI","People Mover","G2","05",32
+"ART","People Mover","G1","08",17
+"SCI","Mini Bus","G2","04",24
+"BUS","Mini Bus","G2","12",11
+"SCI","People Mover","G1","06",21
+"SCI","Mini Bus","G1","03",27
+"ART","People Mover","G2","02",23
+"FIT","People Mover","G3","10",10
+"ART","Bus","G2","07",15
+"ENG","Mini Bus","G2","12",30
+"FIT","People Mover","G3","08",10
+"FIT","Bus","G3","08",13
+"FIT","Mini Bus","G3","09",15
+"BUS","Bus","G1","03",12
+"FIT","Mini Bus","G3","11",8
+"FIT","People Mover","G3","04",8
+"FIT","People Mover","G1","06",36
+"SCI","Bus","G3","04",8
+"ART","Mini Bus","G1","08",13
+"ENG","Bus","G3","08",4
+"ENG","Mini Bus","G3","04",5
+"ART","People Mover","G2","11",19
+"BUS","People Mover","G1","04",5
+"ENG","Bus","G3","07",4
+"FIT","Mini Bus","G3","12",6
+"ENG","People Mover","G3","08",2
+"ENG","Mini Bus","G3","02",1
+"BUS","Bus","G2","09",18
+"ENG","Mini Bus","G1","12",35
+"FIT","People Mover","G2","11",40
+"ART","People Mover","G1","11",11
+"ENG","Mini Bus","G1","09",31
+"FIT","People Mover","G1","10",32
+"FIT","Mini Bus","G2","08",49
+"FIT","People Mover","G1","11",22
+"FIT","Bus","G3","04",9
+"FIT","Mini Bus","G1","10",36
+"ENG","People Mover","G1","01",46
+"ENG","Bus","G2","10",31
+"BUS","Mini Bus","G1","04",8
+"FIT","People Mover","G1","03",32
+"FIT","Bus","G2","03",40
+"ENG","People Mover","G2","12",42
+"SCI","Bus","G1","10",37
+"ENG","Bus","G2","01",35
+"FIT","Mini Bus","G3","05",6
+"FIT","Mini Bus","G1","07",26
+"FIT","People Mover","G2","10",29
+"ART","Bus","G1","01",19
+"SCI","Bus","G1","08",24
+"ENG","People Mover","G2","07",44
+"SCI","Bus","G1","02",28
+"ENG","People Mover","G2","04",39
+"ART","People Mover","G1","09",11
+"SCI","Mini Bus","G3","06",14
+"BUS","People Mover","G2","03",14
+"SCI","Mini Bus","G2","06",23
+"ART","Bus","G2","01",19
+"ENG","Bus","G2","04",27
+"SCI","Mini Bus","G3","12",11
+"ENG","Mini Bus","G1","02",18
+"FIT","People Mover","G1","04",44
+"FIT","Bus","G1","07",31
+"SCI","People Mover","G2","08",33
+"SCI","People Mover","G2","07",19
+"BUS","Mini Bus","G1","05",14
+"ENG","People Mover","G3","07",4
+"BUS","Mini Bus","G1","10",9
+"SCI","Bus","G2","09",25
+"FIT","People Mover","G3","02",9
+"FIT","People Mover","G2","06",47
+"ENG","Bus","G1","10",28
+"SCI","Mini Bus","G1","01",27
+"ENG","People Mover","G1","08",26
+"SCI","Mini Bus","G2","03",39
+"ART","People Mover","G1","12",11
+"FIT","People Mover","G3","01",12
+"BUS","People Mover","G1","11",6
+"BUS","Mini Bus","G1","12",7
+"FIT","Bus","G1","08",25
+"ENG","People Mover","G3","06",2
+"ART","Mini Bus","G2","01",24
+"ART","People Mover","G2","09",18
+"SCI","Bus","G3","07",14
+"FIT","Mini Bus","G3","02",5
+"FIT","Bus","G1","12",33
+"SCI","People Mover","G3","11",9
+"FIT","Mini Bus","G2","10",41
+"SCI","Bus","G2","08",31
+"BUS","Mini Bus","G1","03",8
+"ENG","Mini Bus","G3","09",2
+"ART","People Mover","G1","06",15
+"ART","Mini Bus","G1","05",13
+"FIT","Bus","G3","03",7
+"ENG","People Mover","G3","11",1
+"ART","Mini Bus","G2","08",23
+"FIT","Bus","G1","01",38
+"FIT","People Mover","G2","01",37
+"FIT","Mini Bus","G2","06",44
+"FIT","Mini Bus","G2","05",34
+"SCI","People Mover","G3","01",15
+"SCI","Bus","G3","10",12
+"SCI","People Mover","G2","02",23
+"BUS","Bus","G1","04",7
+"FIT","Bus","G1","09",31
+"SCI","People Mover","G1","01",36
+"SCI","People Mover","G1","11",23
+"BUS","People Mover","G1","09",10
+"FIT","People Mover","G1","12",28
+"SCI","People Mover","G1","02",25
+"FIT","People Mover","G2","03",40
+"FIT","Bus","G1","05",26
+"ART","Mini Bus","G2","03",24
+"ART","Bus","G1","03",9
+"ENG","Mini Bus","G1","06",25
+"ENG","Mini Bus","G3","05",2
+"SCI","Bus","G1","12",23
+"BUS","People Mover","G2","11",17
+"FIT","People Mover","G1","08",34
+"BUS","Bus","G2","10",19
+"ART","People Mover","G1","02",16
+"BUS","People Mover","G2","09",12
+"SCI","People Mover","G3","04",16
+"SCI","Bus","G1","11",25
+"BUS","Mini Bus","G2","01",26
+"ENG","Mini Bus","G1","03",26
+"SCI","Bus","G3","08",10
+"ART","Mini Bus","G1","07",13
+"ENG","Bus","G3","09",4
+"SCI","Bus","G2","04",28
+"FIT","Bus","G3","01",10
+"FIT","People Mover","G2","04",35
+"BUS","Bus","G1","02",6
+"ART","Mini Bus","G2","10",23
+"ENG","People Mover","G1","07",34
+"SCI","Mini Bus","G3","07",7
+"BUS","Bus","G1","07",8
+"SCI","Bus","G1","04",23
+"ENG","Mini Bus","G2","09",36
+"ENG","Mini Bus","G3","06",5
+"BUS","People Mover","G2","10",16
+"ENG","Bus","G2","09",34
+"BUS","Mini Bus","G1","09",13
+"BUS","People Mover","G1","07",13
+"SCI","People Mover","G2","06",26
+"FIT","Mini Bus","G3","07",14
+"ENG","Mini Bus","G1","07",29
+"FIT","Bus","G3","09",10
+"ART","Bus","G1","02",10
+"ENG","Mini Bus","G3","12",3
+"ENG","Mini Bus","G3","07",3
+"FIT","Mini Bus","G1","01",41
+"ENG","Bus","G2","03",37
+"SCI","Mini Bus","G2","10",25
+"SCI","Bus","G1","07",24
+"BUS","Mini Bus","G2","11",12
+"ENG","People Mover","G3","09",5
+"FIT","People Mover","G1","02",26
+"FIT","Bus","G2","07",42
+"BUS","People Mover","G1","08",12
+"ENG","Mini Bus","G1","10",41
+"FIT","Bus","G2","01",40
+"ENG","Mini Bus","G2","03",35
+"ENG","Mini Bus","G2","08",31
+"ENG","People Mover","G2","06",36
+"SCI","People Mover","G1","05",29
+"ENG","People Mover","G1","02",30
+"BUS","Bus","G1","06",12
+"FIT","Mini Bus","G1","11",38
+"BUS","Mini Bus","G1","11",9
+"ENG","People Mover","G1","09",35
+"FIT","People Mover","G2","08",47
+"ART","People Mover","G1","05",16
+"BUS","People Mover","G2","05",18
+"ART","Bus","G2","09",17
+"ART","Bus","G1","06",13
+"FIT","Mini Bus","G3","03",13
+"ART","Mini Bus","G1","11",20
+"BUS","People Mover","G2","12",14
+"ENG","Bus","G1","02",30
+"SCI","People Mover","G2","04",20
+"BUS","People Mover","G1","12",13
+"SCI","People Mover","G3","12",10
+"ART","Mini Bus","G1","02",14
+"SCI","Bus","G1","05",29
+"SCI","Bus","G2","06",25
+"ENG","Mini Bus","G1","11",33
+"FIT","Mini Bus","G1","09",41
+"ENG","Bus","G3","10",5
+"BUS","Mini Bus","G1","06",14
+"ENG","Bus","G1","05",31
+"ART","People Mover","G2","10",21
+"ART","People Mover","G2","01",21
+"ART","People Mover","G1","01",9
+"BUS","Bus","G1","05",6
+"SCI","Mini Bus","G3","05",11
+"ART","Bus","G2","08",22
+"ENG","Bus","G3","02",4
+"ART","Bus","G1","09",9
+"ENG","Mini Bus","G3","08",3
+"SCI","People Mover","G3","09",16
+"BUS","People Mover","G1","06",8
+"ENG","People Mover","G3","04",1
+"FIT","Bus","G1","04",28
+"FIT","Bus","G2","06",28
+"ART","Bus","G1","10",15
+"ENG","Mini Bus","G3","01",2
+"ENG","Bus","G1","07",28
+"ART","People Mover","G2","04",24
+"BUS","People Mover","G2","07",18
+"BUS","People Mover","G1","05",18
+"ART","Mini Bus","G2","05",16
+"FIT","Mini Bus","G1","03",31
+"SCI","Mini Bus","G1","11",43
+"FIT","Mini Bus","G2","01",42
+"SCI","Bus","G3","12",9
+"ENG","Bus","G1","04",28
+"SCI","Bus","G1","01",28
+"ENG","People Mover","G1","03",31
+"ART","People Mover","G2","07",30
+"ENG","Bus","G1","11",42
+"BUS","Mini Bus","G1","08",6
+"FIT","Mini Bus","G2","11",49
+"ART","Mini Bus","G1","04",19
+"FIT","People Mover","G1","09",33
+"BUS","People Mover","G1","10",12
+"ENG","People Mover","G2","05",23
+"ENG","Mini Bus","G2","10",34
+"BUS","Mini Bus","G1","02",13
+"SCI","Bus","G1","06",30
+"BUS","People Mover","G2","06",17
+"FIT","Mini Bus","G3","01",5
+"ART","Mini Bus","G1","06",17
+"ENG","Mini Bus","G2","02",22
+"SCI","Mini Bus","G1","02",15
+"FIT","Mini Bus","G1","05",29
+"ENG","Bus","G2","05",31
+"BUS","Bus","G1","09",10
+"FIT","Bus","G2","08",32
+"BUS","Mini Bus","G2","07",19
+"ENG","Bus","G1","03",28
+"ENG","Mini Bus","G2","11",28
+"FIT","Bus","G1","02",25
+"FIT","Bus","G1","06",32
+"ENG","People Mover","G2","03",37
+"FIT","Bus","G3","05",9
+"ART","Bus","G1","11",16
+"FIT","People Mover","G2","05",47
+"ENG","Bus","G2","07",34
+"SCI","Mini Bus","G2","12",30
+"SCI","Mini Bus","G1","06",30
+"SCI","Mini Bus","G3","01",2
+"BUS","Bus","G1","12",8
+"ENG","People Mover","G1","04",35
+"SCI","Mini Bus","G3","11",14
+"ART","People Mover","G1","07",16
+"ART","Bus","G2","04",23
+"SCI","People Mover","G1","03",32
+"ENG","Bus","G2","02",38
+"ART","People Mover","G2","06",16
+"BUS","Bus","G1","11",9
+"ENG","People Mover","G3","10",5
+"ENG","Bus","G3","03",4
+"ENG","Mini Bus","G3","11",3
+"ENG","Bus","G3","06",1
+"SCI","Mini Bus","G1","10",32
+"ENG","People Mover","G2","08",33
+"SCI","People Mover","G2","10",30
+"ENG","Bus","G1","12",32
+"SCI","People Mover","G3","10",6
+"ENG","Bus","G3","04",5
+"FIT","Mini Bus","G2","09",46
+"FIT","Mini Bus","G2","04",43
+"ENG","Bus","G2","12",35
+"BUS","Bus","G2","02",17
+"FIT","Mini Bus","G2","07",36
+"ENG","Mini Bus","G2","05",35
+"ART","Bus","G2","02",19
+"FIT","Mini Bus","G1","08",26
+"ENG","Bus","G2","11",34
+"ART","Bus","G2","06",19
+"BUS","Bus","G2","03",13
+"ENG","People Mover","G2","01",35
+"BUS","People Mover","G2","04",17
+"FIT","Bus","G2","11",40
+"ART","People Mover","G2","12",38
+"FIT","People Mover","G1","07",34
+"SCI","People Mover","G2","03",32
+"ENG","Bus","G2","08",30
+"ENG","Mini Bus","G1","05",26
+"ENG","Mini Bus","G1","01",30
+"BUS","Mini Bus","G2","04",14
+"ART","Mini Bus","G1","03",22
+"ART","Bus","G2","12",20
+"ENG","Bus","G3","11",5
+"SCI","People Mover","G1","07",27
+"ART","Mini Bus","G2","12",26
+"BUS","Mini Bus","G2","05",21
+"FIT","Bus","G3","06",13
+"FIT","Bus","G1","03",23
+"SCI","Mini Bus","G2","11",24
+"SCI","Bus","G1","09",25
+"SCI","Mini Bus","G2","05",26
+"ENG","People Mover","G2","09",31
+"BUS","Bus","G1","01",12
+"SCI","Mini Bus","G1","09",29
+"SCI","Mini Bus","G1","04",18
+"ENG","People Mover","G1","12",34
+"FIT","People Mover","G3","07",9
+"FIT","Bus","G3","10",14
+"SCI","Mini Bus","G3","02",11
+"ART","Mini Bus","G2","06",24
+"SCI","People Mover","G2","11",26
+"FIT","Mini Bus","G3","06",8
+"ART","Mini Bus","G1","09",14
+"SCI","Bus","G3","02",12
+"BUS","People Mover","G1","01",4
+"BUS","Mini Bus","G1","07",9
+"BUS","Mini Bus","G2","02",19
+"BUS","Bus","G1","08",10
+"FIT","People Mover","G3","03",11
+"FIT","Mini Bus","G3","08",9
+"ART","Bus","G1","05",14
+"SCI","People Mover","G2","12",22
+"BUS","Bus","G2","08",17
+"SCI","Bus","G2","03",29
+"SCI","Bus","G1","03",37
+"ART","People Mover","G2","08",24
+"ENG","People Mover","G1","06",31
+"ART","Bus","G1","12",19
+"ART","People Mover","G2","03",29
+"ART","Bus","G1","07",18
+"FIT","People Mover","G2","07",48
+"FIT","Mini Bus","G2","02",27
+"SCI","People Mover","G1","04",16
+"ART","Bus","G1","08",15
+"BUS","Bus","G2","04",14
+"SCI","Mini Bus","G3","03",8
+"ENG","People Mover","G1","11",27
+"FIT","Bus","G2","05",49
+"SCI","Bus","G2","10",25
+"SCI","Mini Bus","G1","08",20
+"ENG","Bus","G1","09",25
+"SCI","Bus","G2","07",21
+"SCI","People Mover","G3","03",12
+"FIT","Bus","G2","02",60
+"ENG","People Mover","G1","05",23
+"FIT","People Mover","G3","11",13
+"ART","Mini Bus","G1","10",17
+"BUS","People Mover","G2","01",18
+"ENG","Mini Bus","G1","04",30
+"ENG","People Mover","G3","12",2
+"SCI","Bus","G2","11",35
+"ENG","Mini Bus","G1","08",33
+"SCI","People Mover","G2","09",25
+"BUS","Mini Bus","G2","08",22
+"BUS","Mini Bus","G1","01",13
+"ART","Mini Bus","G2","07",12
+"FIT","Bus","G1","10",28
+"FIT","Mini Bus","G1","12",40
+"ART","People Mover","G2","05",21
+"ENG","Bus","G1","08",26
+"FIT","Bus","G1","11",29
+"BUS","Bus","G2","01",17
+"SCI","Mini Bus","G3","10",13
+"FIT","Bus","G2","12",39
+"ART","Mini Bus","G2","09",22
+"ENG","Mini Bus","G3","03",3
+"BUS","Bus","G2","07",24
+"ART","People Mover","G1","04",13
+"FIT","Mini Bus","G3","04",3
+"ENG","People Mover","G3","05",5
+"ENG","People Mover","G3","01",1
+"FIT","People Mover","G3","09",11
+"SCI","People Mover","G3","07",14
+"SCI","Mini Bus","G3","09",11
+"FIT","Bus","G3","12",6
+"SCI","Bus","G3","06",14
+"ENG","Bus","G1","06",22
+"SCI","Bus","G3","03",9
+"BUS","People Mover","G1","02",8
+"BUS","Bus","G2","12",17
+"ENG","People Mover","G3","03",1
