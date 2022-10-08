@@ -1,201 +1,202 @@
 "FACULTYID","CARBODYTYPE","MONTHID","COUNT"
-"ART","Bus","01",18
-"ART","Bus","02",14
-"ART","Bus","03",12
-"ART","Bus","04",18
-"ART","Bus","05",17
-"ART","Bus","06",15
-"ART","Bus","07",15
-"ART","Bus","08",20
-"ART","Bus","09",15
-"ART","Bus","10",14
-"ART","Bus","11",17
-"ART","Bus","12",19
-"ART","Bus","All Month",194
-"ART","Mini Bus","01",18
-"ART","Mini Bus","02",15
-"ART","Mini Bus","03",18
-"ART","Mini Bus","04",17
-"ART","Mini Bus","05",17
-"ART","Mini Bus","06",18
-"ART","Mini Bus","07",13
-"ART","Mini Bus","08",16
-"ART","Mini Bus","09",15
-"ART","Mini Bus","10",20
-"ART","Mini Bus","11",15
-"ART","Mini Bus","12",13
-"ART","Mini Bus","All Month",195
-"ART","People Mover","01",18
-"ART","People Mover","02",16
-"ART","People Mover","03",18
-"ART","People Mover","04",17
-"ART","People Mover","05",17
-"ART","People Mover","06",14
-"ART","People Mover","07",19
-"ART","People Mover","08",16
-"ART","People Mover","09",16
-"ART","People Mover","10",16
-"ART","People Mover","11",16
-"ART","People Mover","12",17
-"ART","People Mover","All Month",200
-"ART","","All Month",589
-"BUS","Bus","01",18
-"BUS","Bus","02",12
-"BUS","Bus","03",15
-"BUS","Bus","04",13
-"BUS","Bus","05",14
-"BUS","Bus","06",15
-"BUS","Bus","07",15
-"BUS","Bus","08",14
-"BUS","Bus","09",12
-"BUS","Bus","10",16
-"BUS","Bus","11",17
-"BUS","Bus","12",14
-"BUS","Bus","All Month",175
-"BUS","Mini Bus","01",17
-"BUS","Mini Bus","02",17
-"BUS","Mini Bus","03",14
-"BUS","Mini Bus","04",16
-"BUS","Mini Bus","05",16
-"BUS","Mini Bus","06",17
-"BUS","Mini Bus","07",16
-"BUS","Mini Bus","08",11
-"BUS","Mini Bus","09",13
-"BUS","Mini Bus","10",16
-"BUS","Mini Bus","11",14
-"BUS","Mini Bus","12",11
-"BUS","Mini Bus","All Month",178
-"BUS","People Mover","01",12
-"BUS","People Mover","02",13
-"BUS","People Mover","03",14
-"BUS","People Mover","04",13
-"BUS","People Mover","05",15
-"BUS","People Mover","06",13
-"BUS","People Mover","07",13
-"BUS","People Mover","08",16
-"BUS","People Mover","09",13
-"BUS","People Mover","10",15
-"BUS","People Mover","11",14
-"BUS","People Mover","12",16
-"BUS","People Mover","All Month",167
-"BUS","","All Month",520
-"ENG","Bus","01",21
-"ENG","Bus","02",24
-"ENG","Bus","03",24
-"ENG","Bus","04",24
-"ENG","Bus","05",23
-"ENG","Bus","06",21
-"ENG","Bus","07",23
-"ENG","Bus","08",22
-"ENG","Bus","09",23
-"ENG","Bus","10",24
-"ENG","Bus","11",24
-"ENG","Bus","12",19
-"ENG","Bus","All Month",272
-"ENG","Mini Bus","01",21
-"ENG","Mini Bus","02",19
-"ENG","Mini Bus","03",22
-"ENG","Mini Bus","04",22
-"ENG","Mini Bus","05",20
-"ENG","Mini Bus","06",23
-"ENG","Mini Bus","07",23
-"ENG","Mini Bus","08",23
-"ENG","Mini Bus","09",22
-"ENG","Mini Bus","10",24
-"ENG","Mini Bus","11",21
-"ENG","Mini Bus","12",22
-"ENG","Mini Bus","All Month",262
-"ENG","People Mover","01",20
-"ENG","People Mover","02",21
-"ENG","People Mover","03",20
-"ENG","People Mover","04",21
-"ENG","People Mover","05",21
-"ENG","People Mover","06",22
-"ENG","People Mover","07",23
-"ENG","People Mover","08",20
-"ENG","People Mover","09",24
-"ENG","People Mover","10",23
-"ENG","People Mover","11",21
-"ENG","People Mover","12",22
-"ENG","People Mover","All Month",258
-"ENG","","All Month",792
-"FIT","Bus","01",26
-"FIT","Bus","02",22
-"FIT","Bus","03",25
-"FIT","Bus","04",26
-"FIT","Bus","05",26
-"FIT","Bus","06",28
-"FIT","Bus","07",26
-"FIT","Bus","08",28
-"FIT","Bus","09",27
-"FIT","Bus","10",26
-"FIT","Bus","11",26
-"FIT","Bus","12",25
-"FIT","Bus","All Month",311
-"FIT","Mini Bus","01",24
-"FIT","Mini Bus","02",24
-"FIT","Mini Bus","03",26
-"FIT","Mini Bus","04",21
-"FIT","Mini Bus","05",24
-"FIT","Mini Bus","06",26
-"FIT","Mini Bus","07",27
-"FIT","Mini Bus","08",25
-"FIT","Mini Bus","09",26
-"FIT","Mini Bus","10",27
-"FIT","Mini Bus","11",25
-"FIT","Mini Bus","12",24
-"FIT","Mini Bus","All Month",299
-"FIT","People Mover","01",27
-"FIT","People Mover","02",25
-"FIT","People Mover","03",27
-"FIT","People Mover","04",25
-"FIT","People Mover","05",27
-"FIT","People Mover","06",25
-"FIT","People Mover","07",27
-"FIT","People Mover","08",27
-"FIT","People Mover","09",26
-"FIT","People Mover","10",27
-"FIT","People Mover","11",26
-"FIT","People Mover","12",25
-"FIT","People Mover","All Month",314
-"FIT","","All Month",924
-"SCI","Bus","01",23
-"SCI","Bus","02",26
-"SCI","Bus","03",27
-"SCI","Bus","04",23
-"SCI","Bus","05",23
-"SCI","Bus","06",26
-"SCI","Bus","07",25
-"SCI","Bus","08",27
-"SCI","Bus","09",22
-"SCI","Bus","10",24
-"SCI","Bus","11",26
-"SCI","Bus","12",26
-"SCI","Bus","All Month",298
-"SCI","Mini Bus","01",21
-"SCI","Mini Bus","02",24
-"SCI","Mini Bus","03",26
-"SCI","Mini Bus","04",25
-"SCI","Mini Bus","05",27
-"SCI","Mini Bus","06",27
-"SCI","Mini Bus","07",25
-"SCI","Mini Bus","08",28
-"SCI","Mini Bus","09",24
-"SCI","Mini Bus","10",25
-"SCI","Mini Bus","11",26
-"SCI","Mini Bus","12",26
-"SCI","Mini Bus","All Month",304
-"SCI","People Mover","01",28
-"SCI","People Mover","02",26
-"SCI","People Mover","03",27
-"SCI","People Mover","04",28
-"SCI","People Mover","05",25
-"SCI","People Mover","06",22
-"SCI","People Mover","07",27
-"SCI","People Mover","08",25
-"SCI","People Mover","09",27
-"SCI","People Mover","10",23
-"SCI","People Mover","11",26
-"SCI","People Mover","12",24
-"SCI","People Mover","All Month",308
-"SCI","","All Month",910
+"ART","All Car Body Types","All Month",1297
+"ART","Bus","01",38
+"ART","Bus","02",29
+"ART","Bus","03",21
+"ART","Bus","04",38
+"ART","Bus","05",30
+"ART","Bus","06",32
+"ART","Bus","07",33
+"ART","Bus","08",37
+"ART","Bus","09",26
+"ART","Bus","10",30
+"ART","Bus","11",38
+"ART","Bus","12",39
+"ART","Bus","All Month",391
+"ART","Mini Bus","01",43
+"ART","Mini Bus","02",31
+"ART","Mini Bus","03",46
+"ART","Mini Bus","04",50
+"ART","Mini Bus","05",29
+"ART","Mini Bus","06",41
+"ART","Mini Bus","07",24
+"ART","Mini Bus","08",36
+"ART","Mini Bus","09",36
+"ART","Mini Bus","10",40
+"ART","Mini Bus","11",35
+"ART","Mini Bus","12",42
+"ART","Mini Bus","All Month",453
+"ART","People Mover","01",30
+"ART","People Mover","02",39
+"ART","People Mover","03",48
+"ART","People Mover","04",37
+"ART","People Mover","05",37
+"ART","People Mover","06",31
+"ART","People Mover","07",46
+"ART","People Mover","08",41
+"ART","People Mover","09",29
+"ART","People Mover","10",36
+"ART","People Mover","11",30
+"ART","People Mover","12",49
+"ART","People Mover","All Month",453
+"All Faculties","All Car Body Types","All Month",10000
+"BUS","All Car Body Types","All Month",972
+"BUS","Bus","01",29
+"BUS","Bus","02",23
+"BUS","Bus","03",25
+"BUS","Bus","04",21
+"BUS","Bus","05",26
+"BUS","Bus","06",27
+"BUS","Bus","07",32
+"BUS","Bus","08",27
+"BUS","Bus","09",28
+"BUS","Bus","10",27
+"BUS","Bus","11",31
+"BUS","Bus","12",25
+"BUS","Bus","All Month",321
+"BUS","Mini Bus","01",39
+"BUS","Mini Bus","02",32
+"BUS","Mini Bus","03",24
+"BUS","Mini Bus","04",22
+"BUS","Mini Bus","05",35
+"BUS","Mini Bus","06",33
+"BUS","Mini Bus","07",28
+"BUS","Mini Bus","08",28
+"BUS","Mini Bus","09",27
+"BUS","Mini Bus","10",30
+"BUS","Mini Bus","11",21
+"BUS","Mini Bus","12",18
+"BUS","Mini Bus","All Month",337
+"BUS","People Mover","01",22
+"BUS","People Mover","02",21
+"BUS","People Mover","03",26
+"BUS","People Mover","04",22
+"BUS","People Mover","05",36
+"BUS","People Mover","06",25
+"BUS","People Mover","07",31
+"BUS","People Mover","08",31
+"BUS","People Mover","09",22
+"BUS","People Mover","10",28
+"BUS","People Mover","11",23
+"BUS","People Mover","12",27
+"BUS","People Mover","All Month",314
+"ENG","All Car Body Types","All Month",2408
+"ENG","Bus","01",75
+"ENG","Bus","02",72
+"ENG","Bus","03",69
+"ENG","Bus","04",60
+"ENG","Bus","05",65
+"ENG","Bus","06",54
+"ENG","Bus","07",66
+"ENG","Bus","08",60
+"ENG","Bus","09",63
+"ENG","Bus","10",64
+"ENG","Bus","11",81
+"ENG","Bus","12",69
+"ENG","Bus","All Month",798
+"ENG","Mini Bus","01",61
+"ENG","Mini Bus","02",41
+"ENG","Mini Bus","03",64
+"ENG","Mini Bus","04",71
+"ENG","Mini Bus","05",63
+"ENG","Mini Bus","06",54
+"ENG","Mini Bus","07",65
+"ENG","Mini Bus","08",67
+"ENG","Mini Bus","09",69
+"ENG","Mini Bus","10",82
+"ENG","Mini Bus","11",64
+"ENG","Mini Bus","12",68
+"ENG","Mini Bus","All Month",769
+"ENG","People Mover","01",82
+"ENG","People Mover","02",63
+"ENG","People Mover","03",69
+"ENG","People Mover","04",75
+"ENG","People Mover","05",51
+"ENG","People Mover","06",69
+"ENG","People Mover","07",82
+"ENG","People Mover","08",61
+"ENG","People Mover","09",71
+"ENG","People Mover","10",75
+"ENG","People Mover","11",65
+"ENG","People Mover","12",78
+"ENG","People Mover","All Month",841
+"FIT","All Car Body Types","All Month",2975
+"FIT","Bus","01",88
+"FIT","Bus","02",90
+"FIT","Bus","03",70
+"FIT","Bus","04",72
+"FIT","Bus","05",84
+"FIT","Bus","06",73
+"FIT","Bus","07",82
+"FIT","Bus","08",70
+"FIT","Bus","09",91
+"FIT","Bus","10",98
+"FIT","Bus","11",81
+"FIT","Bus","12",78
+"FIT","Bus","All Month",977
+"FIT","Mini Bus","01",88
+"FIT","Mini Bus","02",62
+"FIT","Mini Bus","03",81
+"FIT","Mini Bus","04",69
+"FIT","Mini Bus","05",69
+"FIT","Mini Bus","06",88
+"FIT","Mini Bus","07",76
+"FIT","Mini Bus","08",84
+"FIT","Mini Bus","09",102
+"FIT","Mini Bus","10",87
+"FIT","Mini Bus","11",95
+"FIT","Mini Bus","12",88
+"FIT","Mini Bus","All Month",989
+"FIT","People Mover","01",84
+"FIT","People Mover","02",78
+"FIT","People Mover","03",83
+"FIT","People Mover","04",87
+"FIT","People Mover","05",92
+"FIT","People Mover","06",91
+"FIT","People Mover","07",91
+"FIT","People Mover","08",91
+"FIT","People Mover","09",81
+"FIT","People Mover","10",71
+"FIT","People Mover","11",75
+"FIT","People Mover","12",85
+"FIT","People Mover","All Month",1009
+"SCI","All Car Body Types","All Month",2348
+"SCI","Bus","01",61
+"SCI","Bus","02",65
+"SCI","Bus","03",75
+"SCI","Bus","04",59
+"SCI","Bus","05",76
+"SCI","Bus","06",69
+"SCI","Bus","07",59
+"SCI","Bus","08",65
+"SCI","Bus","09",61
+"SCI","Bus","10",74
+"SCI","Bus","11",72
+"SCI","Bus","12",68
+"SCI","Bus","All Month",804
+"SCI","Mini Bus","01",62
+"SCI","Mini Bus","02",45
+"SCI","Mini Bus","03",74
+"SCI","Mini Bus","04",52
+"SCI","Mini Bus","05",68
+"SCI","Mini Bus","06",67
+"SCI","Mini Bus","07",56
+"SCI","Mini Bus","08",63
+"SCI","Mini Bus","09",67
+"SCI","Mini Bus","10",70
+"SCI","Mini Bus","11",81
+"SCI","Mini Bus","12",60
+"SCI","Mini Bus","All Month",765
+"SCI","People Mover","01",82
+"SCI","People Mover","02",60
+"SCI","People Mover","03",76
+"SCI","People Mover","04",52
+"SCI","People Mover","05",72
+"SCI","People Mover","06",59
+"SCI","People Mover","07",60
+"SCI","People Mover","08",63
+"SCI","People Mover","09",74
+"SCI","People Mover","10",70
+"SCI","People Mover","11",58
+"SCI","People Mover","12",53
+"SCI","People Mover","All Month",779
